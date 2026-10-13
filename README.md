@@ -97,7 +97,7 @@ Endpoints exposed:
 
 ## Streamlit app
 
-The repository includes a Streamlit chat interface that calls the same request flow as the FastAPI `/ask` endpoint. Run it locally from the repository root:
+The repository includes a Streamlit chat interface that calls the same request flow as the FastAPI `/ask` endpoint. The root `requirements.txt` intentionally contains only the runtime packages used by the hosted app, keeping Streamlit Community Cloud installation small and avoiding the unrelated ML development stack. Run it locally from the repository root:
 
 ```powershell
 python -m pip install -r requirements.txt
@@ -105,6 +105,13 @@ python -m streamlit run app.py
 ```
 
 To deploy with Streamlit Community Cloud, create a new app from this GitHub repository, select the `master` branch, and set `app.py` as the main file. The deployment installs dependencies from `requirements.txt`. The app is a public demo: use synthetic record IDs only and never enter real customer or financial information. Local Chroma storage and session state may not persist across hosted app restarts.
+
+For development, benchmarking, and the complete test suite, install the extended dependency set instead:
+
+```powershell
+python -m pip install -r requirements-dev.txt
+python -m pytest -q
+```
 
 ## Installation and setup
 
