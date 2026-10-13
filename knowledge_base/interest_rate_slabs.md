@@ -1,0 +1,1 @@
+Illustrative project policy: interest rates often vary by product, credit profile, and market conditions, with separate slabs for secured and unsecured products. A borrower with lower risk may qualify for a lower slab, while higher-risk profiles can face a premium rate. This is sample project guidance, not official Cred lending policy.

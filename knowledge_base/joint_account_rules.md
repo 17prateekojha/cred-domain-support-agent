@@ -1,0 +1,1 @@
+Illustrative project policy: joint accounts typically require all named holders to meet documentation and consent requirements before activation. Transactions and account permissions may be governed differently depending on whether the account is a savings, current, or loan-linked joint account. This sample policy is not official Cred guidance.

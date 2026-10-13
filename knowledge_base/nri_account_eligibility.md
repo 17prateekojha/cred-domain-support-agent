@@ -1,0 +1,1 @@
+Illustrative project policy: NRI account eligibility usually depends on residency status, purpose of funds, KYC verification, and source-of-income documentation. Some products may be available only to resident Indians, while others are structured for non-resident portfolio management or repatriation. This content is a project-authored example and not official Cred policy.

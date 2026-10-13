@@ -1,0 +1,1 @@
+Illustrative project policy: EMIs are typically calculated using the principal amount, contracted interest rate, and repayment tenor. A longer tenor lowers each monthly EMI but increases total interest paid over the life of the loan. This example is project-authored educational guidance, not official Cred policy.

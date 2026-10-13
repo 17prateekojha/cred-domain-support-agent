@@ -1,0 +1,11 @@
+﻿.venv/
+.venv311/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.chroma/
+chroma_store/
+.vscode/
+.DS_Store

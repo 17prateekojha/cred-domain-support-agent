@@ -1,0 +1,17 @@
+[
+  {"id": "Q1", "query": "What are the general eligibility requirements for a home loan?", "category": "loan eligibility"},
+  {"id": "Q2", "query": "How is the EMI on a large loan typically computed?", "category": "emi"},
+  {"id": "Q3", "query": "What fees apply to a credit card account?", "category": "credit card fees"},
+  {"id": "Q4", "query": "Which KYC documents are required for verification?", "category": "kyc"},
+  {"id": "Q5", "query": "What steps are taken during a fraud dispute resolution?", "category": "fraud disputes"},
+  {"id": "Q6", "query": "How does the account closure process begin?", "category": "account closure"},
+  {"id": "Q7", "query": "How do interest-rate slabs differ by risk profile?", "category": "interest rates"},
+  {"id": "Q8", "query": "Are prepayment penalties common in this sample policy?", "category": "prepayment"},
+  {"id": "Q9", "query": "What are the usual minimum-balance expectations?", "category": "minimum balance"},
+  {"id": "Q10", "query": "Which factors can impact a credit score in this sample policy?", "category": "credit score"},
+  {"id": "Q11", "query": "What are the general rules for joint accounts?", "category": "joint account"},
+  {"id": "Q12", "query": "Who is usually eligible for an NRI account in this project?", "category": "nri eligibility"},
+  {"id": "Q13", "query": "Explain the relationship between loan amount and repayment tenor.", "category": "policy cross-check"},
+  {"id": "Q14", "query": "What is the weather in Mumbai today?", "category": "out of scope"},
+  {"id": "Q15", "query": "Can you tell me whether I should be approved for a bank loan without any policy context?", "category": "edge case"}
+]

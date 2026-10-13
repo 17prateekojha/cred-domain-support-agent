@@ -1,0 +1,1 @@
+Illustrative project policy: minimum balance requirements usually depend on account type, branch relationship, and whether the account is salary-based or retail. Accounts that fall below the required minimum may attract maintenance charges or service restrictions. These examples are project-authored and not official Cred policy.

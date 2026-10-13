@@ -1,0 +1,1 @@
+Illustrative project policy: KYC verification generally requires government-issued identity proof, address proof, and a recent photograph. Applicants may need to update documentation if records are inconsistent or if a change in address or employment status occurs. This description is project-authored educational material and not a formal Cred policy statement.

@@ -1,0 +1,1 @@
+Illustrative project policy: account closure usually starts with a formal request, verification of balances, and confirmation of pending dues. The account may need outstanding EMIs, charges, or card liabilities settled before final closure is processed. This is project-specific sample content rather than real Cred policy.

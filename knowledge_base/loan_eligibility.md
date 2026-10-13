@@ -1,0 +1,1 @@
+Illustrative project policy: loan eligibility varies by product and borrower profile. Personal loans may require stable income and a reasonable repayment ratio, while home loans usually need a stronger documentation trail and a lower debt-to-income ratio. This content is illustrative only and not official Cred policy.

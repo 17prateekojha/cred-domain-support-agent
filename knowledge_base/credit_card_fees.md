@@ -1,0 +1,1 @@
+Illustrative project policy: credit-card fees can include annual fees, cash-advance charges, late-payment penalties, and foreign-exchange markups. Fee amounts depend on card variant, account history, and whether the activity is within the defined merchant category. These rules are only illustrative examples for this project.

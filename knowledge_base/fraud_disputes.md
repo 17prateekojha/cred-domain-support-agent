@@ -1,0 +1,1 @@
+Illustrative project policy: fraud or dispute claims should be reported promptly so the bank can freeze suspicious activity and review the transaction timeline. The investigation usually reviews device data, transaction narratives, merchant details, and prior account history before a resolution is finalized. This document is illustrative and not official Cred procedure.

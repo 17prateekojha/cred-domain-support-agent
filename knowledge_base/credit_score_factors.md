@@ -1,0 +1,1 @@
+Illustrative project policy: credit score is influenced by repayment punctuality, credit utilization, account age, and recent credit applications. Late payments and high utilization can reduce the score, while consistent repayment history tends to improve it over time. This is illustrative project content and not a formal Cred score model.

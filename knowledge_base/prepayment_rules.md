@@ -1,0 +1,1 @@
+Illustrative project policy: prepayment may be permitted for some loans, but lenders can charge a fixed or percentage-based prepayment penalty depending on product terms. Customers should review whether the loan is fixed-rate or floating-rate because penalty structures can differ. This content is intentionally illustrative for the project.

@@ -1,0 +1,6 @@
+{
+  "in_scope": [0.72, 0.81, 0.74],
+  "out_of_scope": [0.18, 0.21],
+  "threshold": 0.42,
+  "notes": "Threshold selected between the lowest in-scope and highest out-of-scope values observed in the project calibration step."
+}
